@@ -2,7 +2,8 @@
 <img src="https://swimlane.com/wp-content/uploads/AI_HELPER_MASTHEAD.png" alt="MasterHead" height=300px width=500px>
 </p>
 <h1 align="center">Hi 👋, I'm Ajitpal Singh Sidhu</h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2809271" style='border:none;'></iframe>
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2809271" style='border:none;'>
 <h3 align="center">A passionate frontend developer and cybersecurity enthusiast based in India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FmaGJrZXpiZWFjdzhka2hkanNmZ3o2MGF0ZWJoNGYwODlvc24zdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif">
 
