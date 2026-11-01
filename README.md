@@ -94,8 +94,7 @@ Operating at the intersection of product engineering and security: architecting 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitpal0821&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitpal0821&theme=dark&hide_border=true" alt="Contribution Streak" />
 </div>
 
